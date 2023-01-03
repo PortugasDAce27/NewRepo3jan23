@@ -1,1 +1,2 @@
-sdafsd
+this is newly created bug 1 file 
+Adding new line to fix bug 1
